@@ -2,11 +2,11 @@ package md
 
 import (
 	"fmt"
+	"github.com/kodova/html-to-markdown/escape"
 	"regexp"
 	"strconv"
 	"strings"
 
-	"github.com/JohannesKaufmann/html-to-markdown/escape"
 	"github.com/PuerkitoBio/goquery"
 )
 

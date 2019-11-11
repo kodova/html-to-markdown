@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	md "github.com/kodova/html-to-markdown"
+	"github.com/kodova/html-to-markdown/plugin"
 	"log"
 
-	"github.com/JohannesKaufmann/html-to-markdown"
-	"github.com/JohannesKaufmann/html-to-markdown/plugin"
 )
 
 func main() {

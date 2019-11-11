@@ -14,7 +14,7 @@ go get github.com/JohannesKaufmann/html-to-markdown
 ## Usage
 
 ```go
-import "github.com/JohannesKaufmann/html-to-markdown"
+import md "github.com/kodova/html-to-markdown"
 
 converter := md.NewConverter("", true, nil)
 

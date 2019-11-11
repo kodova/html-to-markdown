@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	md "github.com/kodova/html-to-markdown"
 	"log"
 
-	"github.com/JohannesKaufmann/html-to-markdown"
+
 )
 
 func main() {
@@ -23,3 +24,6 @@ func main() {
 	}
 	fmt.Println(markdown)
 }
+
+
+

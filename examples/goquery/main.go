@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	md "github.com/kodova/html-to-markdown"
 	"log"
 
-	"github.com/JohannesKaufmann/html-to-markdown"
 
 	"github.com/PuerkitoBio/goquery"
 )

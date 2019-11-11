@@ -3,7 +3,7 @@
 package plugin
 
 import (
-	"github.com/JohannesKaufmann/html-to-markdown"
+	md "github.com/kodova/html-to-markdown"
 )
 
 // GitHubFlavored is GitHub's Flavored Markdown

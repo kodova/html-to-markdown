@@ -2,8 +2,8 @@ package plugin
 
 import (
 	"fmt"
+	md "github.com/kodova/html-to-markdown"
 
-	"github.com/JohannesKaufmann/html-to-markdown"
 	yaml "gopkg.in/yaml.v2"
 )
 
